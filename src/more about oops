@@ -1,0 +1,24 @@
+Principle OOPS:
+
+1. Encapsulation
+2. Abstraction
+3. Inheritance : 
+	
+	task-1 => do the R & D with the examples on types of inheritance
+	task-2 => do the R & D with the examples, how we can implement inheritance with abstract class and interface class
+	
+4. Polymorphism 
+
+	task-3 => do the R & D with the examples, how to do method overloading and constructor overloading. 
+
+5. Packages and Access modifiers
+
+private, default(we have no keyword to declare default scope), protected and public
+
+6. About Super most class in Java, Object class and its methods
+
+	task4: try to do R & D on Object class all methods(if possible make programs.)
+
+
+
+
